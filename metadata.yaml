@@ -1,0 +1,38 @@
+_repo: Eminent-Authors-of-the-Nineteenth-Century-Literary-Portraits_49999
+contributor:
+  translator:
+    agent_name: Anderson, Rasmus Björn
+    aliases:
+    - Anderson, Rasmus Bjorn
+    - Anderson, Rasmus B. (Rasmus Björn)
+    - Anderson, R. B. (Rasmus Björn)
+    birthdate: 1846
+    deathdate: 1936
+    gutenberg_agent_id: '4534'
+    url: http://www.gutenberg.org/2009/agents/4534
+    wikipedia: http://en.wikipedia.org/wiki/Rasmus_B._Anderson
+creator:
+  author:
+    agent_name: Brandes, Georg
+    aliases:
+    - Brandes, G. (Georg)
+    - Brandes, Georg Morris Cohen
+    - Brandes, George
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '2674'
+    url: http://www.gutenberg.org/2009/agents/2674
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Brandes
+description: ''
+gutenberg_issued: '2015-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Eminent Authors of the Nineteenth Century
+
+  Literary Portraits'
+url: http://www.gutenberg.org/ebooks/49999
